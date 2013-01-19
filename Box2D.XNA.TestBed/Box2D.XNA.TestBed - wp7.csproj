@@ -223,11 +223,6 @@
       <Project>{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}</Project>
       <Name>Box2D.XNA - wp7</Name>
     </ProjectReference>
-    <ProjectReference Include="Content\Box2D.XNA.TestBedContent.contentproj">
-      <Project>{D56CE43B-5255-4E09-9BF0-D1F000DBB9D4}</Project>
-      <Name>Box2D.XNA.TestBedContent %28Content%29</Name>
-      <XnaReferenceType>Content</XnaReferenceType>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Phone">
