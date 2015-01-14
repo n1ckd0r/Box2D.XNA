@@ -1270,7 +1270,7 @@ namespace Box2D.XNA
         internal WorldFlags _flags;
 
 	    internal ContactManager _contactManager = new ContactManager();
-        internal Queue<Contact> _contactPool = new Queue<Contact>(256);
+		internal Queue<Contact> _contactPool = new Queue<Contact>(256);
 
         internal Body _bodyList;
         internal Joint _jointList;

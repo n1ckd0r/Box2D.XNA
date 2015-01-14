@@ -1,5 +1,19 @@
 bin/
 obj/
+publish/
+PerformanceLogs/
+Visual Studio 2010/
+AppPackages/
 *.suo
+*.user
+*.cachefile
+*.docstates
+*.vsp
+*.DS_STORE
+*.pidb
+*.userprefs
 *.swp
-.gitignore~
+*.sap
+*~
+*.db
+*.DS_Store

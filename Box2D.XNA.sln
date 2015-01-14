@@ -1,58 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box2D.XNA - wp7", "Box2D.XNA\Box2D.XNA - wp7.csproj", "{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box2D.XNA.TestBed - wp7", "Box2D.XNA.TestBed\Box2D.XNA.TestBed - wp7.csproj", "{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box2D.XNA", "Box2D.XNA.csproj", "{C21B21C5-0D16-47CA-8BF3-4DABFFAAE631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug|Mixed Platforms = Debug|Mixed Platforms
-		Debug|Windows Phone = Debug|Windows Phone
-		Debug|x86 = Debug|x86
-		Debug|Xbox 360 = Debug|Xbox 360
 		Release|Any CPU = Release|Any CPU
-		Release|Mixed Platforms = Release|Mixed Platforms
-		Release|Windows Phone = Release|Windows Phone
-		Release|x86 = Release|x86
-		Release|Xbox 360 = Release|Xbox 360
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|x86.ActiveCfg = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Debug|Xbox 360.ActiveCfg = Debug|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Any CPU.ActiveCfg = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Windows Phone.Build.0 = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|x86.ActiveCfg = Release|Windows Phone
-		{066846BE-AAEA-4EB6-BAA8-2D6B60B3BDB3}.Release|Xbox 360.ActiveCfg = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Mixed Platforms.Deploy.0 = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|x86.ActiveCfg = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Debug|Xbox 360.ActiveCfg = Debug|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Any CPU.ActiveCfg = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Mixed Platforms.Deploy.0 = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Windows Phone.Build.0 = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|x86.ActiveCfg = Release|Windows Phone
-		{029EFA73-67A6-4C53-8CA3-B3BD5F72A4DD}.Release|Xbox 360.ActiveCfg = Release|Windows Phone
+		{C21B21C5-0D16-47CA-8BF3-4DABFFAAE631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21B21C5-0D16-47CA-8BF3-4DABFFAAE631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21B21C5-0D16-47CA-8BF3-4DABFFAAE631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21B21C5-0D16-47CA-8BF3-4DABFFAAE631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Box2D.XNA.csproj
 	EndGlobalSection
 EndGlobal
